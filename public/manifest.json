@@ -1,0 +1,17 @@
+{
+  "name": "Sahaaya",
+  "short_name": "Sahaaya",
+  "description": "Menstrual Health & Care Platform — your supportive wellness companion",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F7F3F0",
+  "theme_color": "#4A2370",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
