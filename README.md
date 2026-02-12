@@ -1,4 +1,8 @@
-# Welcome to your Lovable project
+# Sahaaya — Menstrual Health & Care Platform
+
+## Live Preview
+
+**Preview URL**: https://id-preview--d1a91567-facc-4a88-8ab7-d1bcc0c80500.lovable.app
 
 ## Project info
 
