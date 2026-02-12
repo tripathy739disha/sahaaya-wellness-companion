@@ -1,12 +1,8 @@
 # Sahaaya — Menstrual Health & Care Platform
 
-## Live Preview
-
-**Preview URL**: https://id-preview--d1a91567-facc-4a88-8ab7-d1bcc0c80500.lovable.app
-
 ## Project info
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+**URL**: https://sahaaya-blooms-wellness.lovable.app/
 
 ## How can I edit this code?
 
